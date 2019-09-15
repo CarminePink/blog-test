@@ -18,3 +18,5 @@ var a = 1
 console.log(a)
 ```
 [点击这里阅读我的博客](https://github.com/CarminePink/blog-test)
+
+这是我的帅照![这是我的帅照](1.jpg)
